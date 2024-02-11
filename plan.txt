@@ -1,0 +1,24 @@
+### planzzzz ###
+
+why i do this?
+- bcs i lazy to open 4 sites, so this program opens all 4 for me ahhaahhaha
+
+idea -
+1. run program
+2. multiple tabs on chrome will be opened
+
+steps -
+1. find out appropriate modules to use
+2. write script
+3. test script
+4. add scheduling feature
+5. add storing progress feature
+5. refactor
+6. add comments
+
+what to know -
+- what modules to use for
+    - open webpages
+    - storing data on progress of running program
+    - scheduling when to run the code
+- 
