@@ -8,7 +8,7 @@ idea -
 2. multiple tabs on chrome will be opened
 
 steps -
-1. find out appropriate modules to use
+1. find out appropriate modules to use - webbrowser
 2. write script
 3. test script
 4. add scheduling feature
